@@ -1,0 +1,1681 @@
+.border-2px-eastern-blue {
+  border: 2px solid var(--eastern-blue);
+}
+ {
+  background-color: transparent;
+  height: 4560px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+ .a1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 8px;
+  letter-spacing: -1.50px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+ .a2 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 8px;
+  letter-spacing: -1.50px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+ .a3 {
+  background-color: transparent;
+  height: 445px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+ .a4 {
+  background-color: transparent;
+  height: 446px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 830px;
+}
+ .arrow-1 {
+  background-color: transparent;
+  height: 8px;
+  left: 98px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+ .arrow-2 {
+  background-color: transparent;
+  height: 8px;
+  left: 334px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+ .arrow-3 {
+  background-color: transparent;
+  height: 8px;
+  left: 594px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+ .a5 {
+  background-color: transparent;
+  height: 920px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+ .Olzhas {
+  background-color: transparent;
+  height: auto;
+  left: 815px;
+  letter-spacing: -1.20px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 575px;
+  width: auto;
+}
+ .bike {
+  background-color: transparent;
+  height: auto;
+  left: 369px;
+  letter-spacing: 1.80px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  white-space: nowrap;
+  width: 94px;
+}
+ .block-1 {
+  background-color: transparent;
+  height: 820px;
+  left: 123px;
+  position: absolute;
+  top: 40px;
+  width: 1537px;
+}
+ .block-2 {
+  background-color: transparent;
+  height: 1105px;
+  left: 120px;
+  position: absolute;
+  top: 1020px;
+  width: 1680px;
+}
+ .block-3 {
+  background-color: transparent;
+  height: 445px;
+  left: 120px;
+  position: absolute;
+  top: 2506px;
+  width: 1642px;
+}
+ .block-4 {
+  background-color: transparent;
+  height: 445px;
+  left: 156px;
+  position: absolute;
+  top: 3011px;
+  width: 1644px;
+}
+ .Scott1 {
+  background-color: transparent;
+  color: var(--tundora);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  white-space: nowrap;
+  width: 681px;
+}
+ .Scott2 {
+  background-color: transparent;
+  color: var(--tundora);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  white-space: nowrap;
+  width: 681px;
+}
+ .Ellipse1 {
+  background-color: transparent;
+  height: 51px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 50px;
+}
+ .Ellipse2 {
+  background-color: transparent;
+  height: 50px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 50px;
+}
+ .Email {
+  background-color: transparent;
+  color: rgba(117,117,117,1.0);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: auto;
+}
+ .f1 {
+  background-color: rgba(0,0,0,0.8);
+  height: 60px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 356px;
+  width: 396px;
+}
+ .f2 {
+  background-color: rgba(0,0,0,0.8);
+  height: 60px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 356px;
+  width: 396px;
+}
+ .f3 {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+ .f4 {
+  background-color: transparent;
+  height: 50px;
+  left: 120px;
+  position: absolute;
+  top: 360px;
+  width: 425px;
+}
+ .f5 {
+  background-color: transparent;
+  height: 106px;
+  left: 316px;
+  position: absolute;
+  top: 160px;
+  width: 198px;
+}
+ .f6 {
+  background-color: transparent;
+  height: 106px;
+  left: 222px;
+  position: absolute;
+  top: 160px;
+  width: 386px;
+}
+ .f7 {
+  background-color: transparent;
+  height: 106px;
+  left: 237px;
+  position: absolute;
+  top: 160px;
+  width: 356px;
+}
+ .f8 {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  top: 200px;
+  width: 178px;
+}
+ .f9 {
+  background-color: transparent;
+  height: 33px;
+  left: 621px;
+  position: absolute;
+  top: 200px;
+  width: 182px;
+}
+ .f10 {
+  background-color: transparent;
+  height: 33px;
+  left: 1234px;
+  position: absolute;
+  top: 200px;
+  width: 223px;
+}
+ .ico1 {
+  background-color: transparent;
+  height: 30px;
+  left: 737px;
+  overflow: hidden;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+ .ico2 {
+  background-color: transparent;
+  height: 30px;
+  left: 737px;
+  overflow: hidden;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+ .f11 {
+  background-color: transparent;
+  height: 426px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 830px;
+}
+ .group-1 {
+  background-color: transparent;
+  height: 102px;
+  left: 120px;
+  position: absolute;
+  top: 47px;
+  width: 1692px;
+}
+ .group-2 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: relative;
+  top: 3px;
+  width: 30px;
+}
+ .group-3 {
+  background-color: transparent;
+  height: 35px;
+  left: 1405px;
+  position: absolute;
+  top: 368px;
+  width: 377px;
+}
+ .group-4 {
+  background-color: transparent;
+  height: 3px;
+  left: 37px;
+  position: absolute;
+  top: 10px;
+  width: 3px;
+}
+ .group-5 {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+ .group-6 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: relative;
+  top: 3px;
+  width: 30px;
+}
+ .group-7 {
+  background-color: transparent;
+  height: 40px;
+  left: 58px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+ .group-8 {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100px;
+}
+ .group-9 {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 25px;
+}
+ .group-10 {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100px;
+}
+ .group-11 {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 50px;
+}
+ .group-12 {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 3px;
+}
+ .group-13 {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 25px;
+}
+ .group-14 {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100px;
+}
+ .img1 {
+  background-color: transparent;
+  height: 426px;
+  left: 0px;
+  position: absolute;
+  top: 233px;
+  width: 832px;
+}
+ .img2 {
+  background-color: transparent;
+  height: 426px;
+  left: 850px;
+  position: absolute;
+  top: 233px;
+  width: 832px;
+}
+ .img3 {
+  background-color: transparent;
+  height: 426px;
+  left: 0px;
+  position: absolute;
+  top: 679px;
+  width: 832px;
+}
+ .img4 {
+  background-color: transparent;
+  height: 426px;
+  left: 850px;
+  position: absolute;
+  top: 679px;
+  width: 832px;
+}
+ .inst1 {
+  background-color: transparent;
+  height: 50px;
+  left: 125px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+ .line-1 {
+  background-color: transparent;
+  height: 3px;
+  left: 120px;
+  position: absolute;
+  top: 46px;
+  width: 709px;
+}
+ .line-2 {
+  background-color: transparent;
+  height: 3px;
+  left: 1092px;
+  position: absolute;
+  top: 45px;
+  width: 709px;
+}
+ .line-3 {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 507px;
+  width: 1921px;
+}
+ .login {
+  background-color: transparent;
+  height: auto;
+  left: 1117px;
+  letter-spacing: -1.20px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 281px;
+  width: auto;
+}
+ .logomini-1 {
+  background-color: transparent;
+  height: 81px;
+  left: 930px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+ .measure-life-in-tt-mtb-and-road {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 3.60px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 436px;
+  width: 516px;
+}
+ .motosport-1 {
+  background-color: transparent;
+  height: auto;
+  left: 290px;
+  letter-spacing: 1.80px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  white-space: nowrap;
+  width: 252px;
+}
+ .motosports {
+  background-color: transparent;
+  height: auto;
+  left: 712px;
+  letter-spacing: -1.20px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 321px;
+  width: auto;
+}
+ .off-road-620x31-21original1-1-1 {
+  background-color: transparent;
+  height: 426px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 830px;
+}
+ .play-1 {
+  background-color: transparent;
+  height: 100px;
+  left: 1185px;
+  overflow: hidden;
+  position: absolute;
+  top: 601px;
+  width: 100px;
+}
+ .polygon-1 {
+  background-color: transparent;
+  height: 30px;
+  left: 36px;
+  position: absolute;
+  top: 34px;
+  width: 25px;
+}
+ .polygon-2 {
+  background-color: transparent;
+  height: 29px;
+  left: 36px;
+  position: absolute;
+  top: 35px;
+  width: 25px;
+}
+ .rectangle-1-E9QH2L {
+  background-color: transparent;
+  height: 106px;
+  left: 278px;
+  position: absolute;
+  top: 160px;
+  width: 274px;
+}
+ .rectangle-2-80YyrJ {
+  background-color: var(--white);
+  border-radius: 30px;
+  height: 71px;
+  left: 488px;
+  position: absolute;
+  top: 0px;
+  width: 200px;
+}
+ .rectangle-3-UIpeG9 {
+  background-color: rgba(196,196,196,0.6);
+  height: 300px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+ .rectangle-4-AFq40q {
+  background-color: var(--white);
+  height: 300px;
+  left: 394px;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+ .rectangle-5-AFq40q {
+  background-color: var(--white);
+  height: 300px;
+  left: 1004px;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+ .rectangle-6 {
+  background-color: rgba(51,51,51,1.0);
+  height: 500px;
+  left: 0px;
+  position: absolute;
+  top: 141px;
+  width: 1920px;
+}
+ .rectangle-7 {
+  background-color: transparent;
+  border: 1px solid var(--white);
+  border-radius: 10px;
+  height: 50px;
+  left: 1395px;
+  position: absolute;
+  top: 360px;
+  width: 400px;
+}
+ .rectangle-8-8vUoKe {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 330px;
+}
+ .register {
+  background-color: transparent;
+  height: auto;
+  left: 1103px;
+  letter-spacing: -1.20px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 321px;
+  width: auto;
+}
+ .running-E9QH2L {
+  background-color: transparent;
+  height: auto;
+  left: 326px;
+  letter-spacing: 1.80px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  white-space: nowrap;
+  width: 181px;
+}
+ .running {
+  background-color: transparent;
+  height: auto;
+  left: 737px;
+  letter-spacing: -1.20px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 401px;
+  width: auto;
+}
+ .scott-C61RwL {
+  background-color: var(--white);
+  height: 4560px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 1920px;
+}
+ .scott-sI32vm {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Playfair Display', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 195px;
+  letter-spacing: 3.60px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+  width: auto;
+}
+ .scott-sports-bicycle-division-JFK5in {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 123px;
+  letter-spacing: 5.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  width: 530px;
+}
+ .scott-sports-bikes {
+  background-color: transparent;
+  height: auto;
+  left: 687px;
+  letter-spacing: -1.20px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 281px;
+  width: auto;
+}
+ .scott-sports-is-2021-and-beyond-gutdLx {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 171px;
+  width: 695px;
+}
+ .scott-sports-is-2021-and-beyond-sMKxFx {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 171px;
+  width: 695px;
+}
+ .scott-sports-sc-787372zoom1-1-15PMPg {
+  background-color: transparent;
+  height: 338px;
+  left: 935px;
+  object-fit: cover;
+  position: absolute;
+  top: 482px;
+  width: 600px;
+}
+ .team-dsm-x-scott-sports-IVlnpl {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 90px;
+  letter-spacing: -2.16px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+ .team-dsm-x-scott-sports-X5a0fD {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 90px;
+  letter-spacing: -2.16px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+ .tekst-KKc5da {
+  background-color: transparent;
+  height: 303px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 704px;
+}
+ .tekst-qjIFK4 {
+  background-color: transparent;
+  height: 303px;
+  left: 946px;
+  position: absolute;
+  top: 56px;
+  width: 704px;
+}
+ .telegram-1-8vUoKe {
+  background-color: transparent;
+  height: 30px;
+  left: 345px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+ .telegram-2-VoGO7G {
+  background-color: transparent;
+  height: 44px;
+  left: 250px;
+  overflow: hidden;
+  position: absolute;
+  top: 3px;
+  width: 50px;
+}
+ .textlabel-15PMPg {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 639px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: auto;
+}
+ .textlabel-80YyrJ {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: auto;
+}
+ .textlabel-RaJRNU {
+  background-color: transparent;
+  height: auto;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: auto;
+ }
+ .textlabel-EZjox6 {
+  background-color: transparent;
+  height: auto;
+  left: 1337px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 250px;
+}
+ .textlabel-HR1xeZ {
+  background-color: transparent;
+  height: auto;
+  left: 516px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: auto;
+}
+ .textlabel-IVlnpl {
+  background-color: transparent;
+  height: auto;
+  left: 694px;
+  letter-spacing: -2.50px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  width: auto;
+}
+
+ .textlabel-TVIweM {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+  width: auto;
+  
+}
+ .textlabel {
+  background-color: transparent;
+  height: auto;
+  left: 1395px;
+  letter-spacing: -1.20px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 281px;
+  width: auto;
+}
+ .textlabel-UOgo4G {
+  background-color: transparent;
+  height: auto;
+  left: 745px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 205px;
+}
+ .textlabel-X5a0fD {
+  background-color: transparent;
+  height: auto;
+  left: 694px;
+  letter-spacing: -2.50px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  width: auto;
+}
+ .textlabel-d2qD5x {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Playfair Display', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 651px;
+  letter-spacing: 3.60px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+  width: auto;
+}
+
+ .textlabel-kU8KN1 {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+  width: auto;
+}
+ .textlabel-sI32vm {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Playfair Display', Helvetica;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 9.60px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+ .textlabel-sMKxFx {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+ .textlabel-son70g {
+  background-color: transparent;
+  height: auto;
+  left: 715px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 241px;
+  width: auto;
+}
+ .textlabel-xWEIOa {
+  background-color: transparent;
+  height: auto;
+  left: 1400px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 241px;
+  width: auto;
+}
+ .textlabel-xkP5Km {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 410px;
+}
+ .tvosaboutusicon-1-15PMPg {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 200px;
+}
+ .vector-DhaYRX {
+  background-color: transparent;
+  height: 17px;
+  left: 18px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+ .vector-FOH5tI {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+ .vector-G5ZZrZ {
+  background-color: transparent;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 8px;
+  width: 48px;
+}
+ .vector-HDJgxM {
+  background-color: transparent;
+  height: 33px;
+  left: 1px;
+  position: absolute;
+  top: 8px;
+  width: 48px;
+}
+ .vector-HH6Q5k {
+  background-color: transparent;
+  height: 42px;
+  left: 37px;
+  position: absolute;
+  top: 29px;
+  width: 34px;
+}
+ .vector-JFK5in {
+  background-color: transparent;
+  height: 50px;
+  left: 1760px;
+  position: absolute;
+  top: 811px;
+  width: 40px;
+}
+ .vector-JLwp2F {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+ .vector-N5x2wl {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 30px;
+}
+ .vector-RHNuc3 {
+  background-color: transparent;
+  height: 26px;
+  left: -0px;
+  position: absolute;
+  top: 2px;
+  width: 30px;
+}
+ .vector-Rbx75q {
+  background-color: transparent;
+  height: 5px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 5px;
+}
+ .vector-Rqy7cf {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  position: absolute;
+  top: -1px;
+  width: 30px;
+}
+ .vector-TSbwIH {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px; 
+}
+ .vector-ZdGkex {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+ .vector-a2Qu1Q {
+  background-color: transparent;
+  height: 66px;
+  left: 3px;
+  position: absolute;
+  top: 16px;
+  width: 94px;
+}
+ .vector-fPKwQe {
+  background-color: transparent;
+  height: 67px;
+  left: 3px;
+  position: absolute;
+  top: 16px;
+  width: 94px;
+}
+ .vector-kTPk6Z {
+  background-color: transparent;
+  height: 26px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 26px;
+}
+ .vector-qsBjh3 {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+ .vector-xGg76D {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+ .video-KKc5da {
+  background-color: transparent;
+  height: 445px;
+  left: 814px;
+  position: absolute;
+  top: 0px;
+  width: 836px;
+}
+ .video-qjIFK4 {
+  background-color: transparent;
+  height: 445px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 836px;
+}
+ .view-JFK5in {
+  background-color: transparent;
+  height: 40px;
+  left: 1702px;
+  position: absolute;
+  top: 53px;
+  width: 98px;
+}
+ .view-ZFZaHL {
+  background-color: transparent;
+  height: 300px;
+  left: 256px;
+  position: absolute;
+  top: 0px;
+  width: 1457px;
+}
+ .view-gqkI88 {
+  background-color: transparent;
+  height: 132px;
+  left: 126px;
+  position: absolute;
+  top: 2274px;
+  width: 1674px;
+}
+ .view-ooKkAW {
+  background-color: transparent;
+  height: 200px;
+  left: 120px;
+  position: absolute;
+  top: 660px;
+  width: 694px;
+}
+ .view-s2Yggq {
+  background-color: transparent;
+  height: 300px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+ .view-z7VQqH {
+  background-color: transparent;
+  height: 132px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 1098px;
+}
+ .wintersport-LR2yaJ {
+  background-color: transparent;
+  height: auto;
+  left: 272px;
+  letter-spacing: 1.80px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  white-space: nowrap;
+  width: 288px;
+}
+ .wintersports {
+  background-color: transparent;
+  height: auto;
+  left: 702px;
+  letter-spacing: -1.20px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 361px;
+  width: auto;
+}
+ .x-EZjox6 {
+  background-color: transparent;
+  height: auto;
+  left: 1242px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 440px;
+}
+ .x-IVlnpl {
+  background-color: transparent;
+  height: auto;
+  left: 547px;
+  letter-spacing: -2.50px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  width: auto;
+}
+ .x-JU1vDm {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Playfair Display', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 803px;
+  letter-spacing: 10.80px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  width: 65px;
+}
+ .x-UOgo4G {
+  background-color: transparent;
+  height: auto;
+  left: 618px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 458px;
+}
+ .x-X5a0fD {
+  background-color: transparent;
+  height: auto;
+  left: 547px;
+  letter-spacing: -2.50px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  width: auto;
+}
+ .x-sI32vm {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Playfair Display', Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 515px;
+  letter-spacing: 10.80px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  width: 65px;
+}
+ .x-xkP5Km {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 452px;
+}
+ .x1-blok-gqkI88 {
+  background-color: transparent;
+  height: 920px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1924px;
+}
+ .x1729950original1-1-dDsd0w {
+  background-color: transparent;
+  height: 426px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 830px;
+}
+ .x1784119original1-1-E9QH2L {
+  background-color: transparent;
+  height: 426px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 830px;
+}
+ .x2-IVlnpl {
+  background-color: transparent;
+  height: 46px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 50px;
+}
+ .x2-X5a0fD {
+  background-color: transparent;
+  height: 45px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 50px;
+}
+ .x240f268898928-rw7yt-yol-nkq-1-IVlnpl {
+  background-color: transparent;
+  height: 31px;
+  left: 588px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+ .x240f268898928-rw7yt-yol-nkq-1-X5a0fD {
+  background-color: transparent;
+  height: 30px;
+  left: 588px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+ .x240f325736897-w-qjw2-gw4q-y-1-lJpxkF {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+ .x27014661711440981pngraw5-1-80YyrJ {
+  background-color: transparent;
+  height: 177px;
+  left: 488px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 200px;
+}
+ .x27282510080431-ngoverview2-1-80YyrJ {
+  background-color: transparent;
+  height: 200px;
+  left: 244px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 200px;
+}
+ .x27519865151699-ngoverview2-1-80YyrJ {
+  background-color: transparent;
+  height: 200px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 200px;
+}
+ .x4-2021-gutdLx {
+  background-color: transparent;
+  color: var(--tundora);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 106px;
+  white-space: nowrap;
+  width: auto;
+}
+ .x4-2021-sMKxFx {
+  background-color: transparent;
+  color: var(--tundora);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 106px;
+  white-space: nowrap;
+  width: auto;
+}
+ .x4-gqkI88 {
+  background-color: transparent;
+  height: 300px;
+  left: 0px;
+  position: absolute;
+  top: 3556px;
+  width: 1920px;
+}
+ .x5-gqkI88 {
+  background-color: transparent;
+  height: 641px;
+  left: -0px;
+  position: absolute;
+  top: 3916px;
+  width: 1942px;
+}
+ .you-tube-O9w2mp {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 287px;
+  letter-spacing: -4.80px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: 111px;
+}
+ .you-tube-cd2I4g {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 287px;
+  letter-spacing: -4.80px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: 111px;
+}
+ .youtube-4-O9w2mp {
+  background-color: transparent;
+  height: 50px;
+  left: 237px;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 50px;
+}
+ .youtube-4-cd2I4g {
+  background-color: transparent;
+  height: 50px;
+  left: 237px;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 50px;
+}
+ .youtube-5-IVlnpl {
+  background-color: transparent;
+  height: 100px;
+  left: 365px;
+  overflow: hidden;
+  position: absolute;
+  top: 172px;
+  width: 100px;
+}
+ .youtube-5-X5a0fD {
+  background-color: transparent;
+  height: 100px;
+  left: 365px;
+  overflow: hidden;
+  position: absolute;
+  top: 172px;
+  width: 100px;
+}
+ .youtube-6-VoGO7G {
+  background-color: transparent;
+  height: 38px;
+  left: 375px;
+  overflow: hidden;
+  position: absolute;
+  top: 6px;
+  width: 50px;
+}
+.montserrat-black-white-24px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+}
+.montserrat-normal-black-14px {
+  color: var(--black-3);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-black-15px {
+  color: var(--black-2);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-black-20px {
+  color: var(--black-2);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-pacific-blue-15px {
+  color: var(--pacific-blue);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-tundora-27px {
+  color: var(--tundora);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-normal-white-24px {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.playfairdisplay-bold-white-36px {
+  color: var(--white);
+  font-family: 'Playfair Display', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+.playfairdisplay-normal-white-25px {
+  color: var(--white-2);
+  font-family: 'Playfair Display', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,0.73);
+  --black-2: rgba(0,0,0,0.6);
+  --black-3: rgba(0,0,0,1.0);
+  --eastern-blue: rgba(36,156,188,1.0);
+  --pacific-blue: rgba(0,152,193,1.0);
+  --tundora: rgba(69,69,69,1.0);
+  --white: rgba(255,255,255,1.0);
+  --white-2: rgba(255,255,255,0.7);
+}
